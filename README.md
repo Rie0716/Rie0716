@@ -1,16 +1,24 @@
-### Hi there 👋
+### 自己紹介 👋
 
-<!--
-**Rie0716/Rie0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 スキル<br>
+看護師(医療現場)×行政保健師(自治体)×IT(JavaScript, Python他/実務未経験)×語学力(長期渡航経験)<br>
 
-Here are some ideas to get you started:
+🌱 経歴<br>
+●7年間、医療・福祉・介護領域について医療現場(手術室看護師)、私生活(在宅介護の主介護者)、自治体(行政保健師)と多岐に渡って携わる<br>
+●コロナ禍を期にITの力を実感し、自らITスキルを身に付けキャリアアップを図るため前職の公務員を退職<br>
+●2023年4月〜7月約3か月間、単身東南アジアに渡り、プログラミングスキル(HTML/CSS,JavaScript,Python,MySQL,Django)の習得と長期海外生活を経験<br>
+●2023年7月中旬帰国<br>
+●2023年8月中旬ポートフォリオ完成・公開<br>
+●現在、求職活動中<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 キャリアビジョン<br>
+●ITやAIの力で企業や自治体の課題(マイナス)を0むしろプラスにしてクライアントや社会に貢献<br>
+●ITの力で"良いもの・こと"のシェア(共有)することによって新しいビジネス、雇用、幸福の創造<br>
+
+🤔 希望職種/業務<br>
+●toBのIT/DXコンサルタント業<br>
+●課題を正しく把握・評価をするためPythonを用いたデータ分析業務　など<br>
+
+👯職場環境/企業風土<br>
+●自分が働く環境を主体的に選択可能な労働職場<br>
+●社員の自律性を重視している企業風土<br>
